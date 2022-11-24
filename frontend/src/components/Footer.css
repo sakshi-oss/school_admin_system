@@ -1,0 +1,26 @@
+
+#footer{
+    /*grid-area:footer;*/
+    display:grid;
+    /* place-items: center;
+    place-content: center; */
+    text-align: center;
+    background:#f3f4f6;
+    color:#4081b7;
+    height: 100%;
+    /* position: fixed; */
+    font-size: xx-large;
+    line-height: 0%;
+}
+
+
+
+@media only screen and (min-width: 800px) {
+  
+  #footer{
+margin-top: 1px;
+/* bottom:0px; */
+position: relative;
+  }
+  }
+  
